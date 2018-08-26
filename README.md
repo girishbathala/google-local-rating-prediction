@@ -1,3 +1,3 @@
-# google-local-rating-prediction
+# google-local-rating-prediction 
 
-Refer :**README.ipynb**
+Please refer :**README.ipynb** .
